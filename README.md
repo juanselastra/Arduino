@@ -5,7 +5,7 @@ Sketch creado con el entorno de desarrollo *Arduino IDE* para grabar en una tarj
 ![Fig. Foto del prototipo](https://github.com/juanselastra/Arduino/blob/master/IMG_01.jpg?raw=true "Foto del prototipo")  
   
   
-La parte del la configuración del Sketch para los sensores *DS18B20* se ha obtenido del canal de YouTube *Programar facil* [^1] y para la configuración de la MicroSD del canal de YouTube *Bitwise Ar* [^2]  
+La parte de la configuración del Sketch para los sensores *DS18B20* se ha obtenido del canal de YouTube *Programar facil* [^1] y para la configuración de la MicroSD, del canal de YouTube *Bitwise Ar* [^2]  
   
 [^1]:Video *DS18B20 y Arduino cómo medir la temperatura del agua*  
 [^2]:Video *Arduino desde cero en Español capítulo 37 Lector de tarjeta MicroSD*  
