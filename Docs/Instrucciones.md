@@ -6,8 +6,8 @@ Sketch creado con el entorno de desarrollo *Arduino IDE* para grabar en una tarj
   
 La parte de la configuración del Sketch para los sensores *DS18B20* se ha obtenido del canal de YouTube *Programar facil* [^1] y para la configuración de la MicroSD, del canal de YouTube *Bitwise Ar* [^2]  
   
-[^1]:Video *DS18B20 y Arduino cómo medir la temperatura del agua*  
-[^2]:Video *Arduino desde cero en Español capítulo 37 Lector de tarjeta MicroSD*  
+[^1]: Video *DS18B20 y Arduino cómo medir la temperatura del agua*  
+[^2]: Video *Arduino desde cero en Español capítulo 37 Lector de tarjeta MicroSD*  
   
 La tarjeta de memoria se encuentra en formato FAT32 y almacena los datos en un archivo con extensión *.txt*, que puede abrirse en Excel o LibreOffice en formato de hoja de cálculo y crearse facilmente un gráfico.  
   
